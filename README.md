@@ -11,7 +11,7 @@ This repository showcases my expertise in data analysis and visualization using 
 
 I'm currently open to freelance data analysis projects! If you have a dataset in need of insightful visualization or simply want to discuss a potential project, don't hesitate to get in touch.
 
-#### Contact:
+### Contact:
 
 **Email:** e.mcspillaro@gmail.com
 
@@ -19,7 +19,7 @@ I'm currently open to freelance data analysis projects! If you have a dataset in
 
 **LinkedIn:** www.linkedin.com/in/ernestspiller
 
-#### Feel free to:
+### Feel free to:
 
 Browse the code and ask questions!
 Fork and build upon my projects!
