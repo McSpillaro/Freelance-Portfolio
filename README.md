@@ -14,7 +14,9 @@ I'm currently open to freelance data analysis projects! If you have a dataset in
 #### Contact:
 
 **Email:** e.mcspillaro@gmail.com
+
 **Website:** (in progress; TBD)
+
 **LinkedIn:** www.linkedin.com/in/ernestspiller
 
 #### Feel free to:
