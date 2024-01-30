@@ -7,7 +7,6 @@ This repository showcases my expertise in data analysis and visualization using 
 - Uncover hidden insights and trends
 - Craft compelling and informative visualizations
 - Communicate findings effectively
-- Current Projects:
 
 I'm currently open to freelance data analysis projects! If you have a dataset in need of insightful visualization or simply want to discuss a potential project, don't hesitate to get in touch.
 
