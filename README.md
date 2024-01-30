@@ -1,4 +1,4 @@
-# Welcome to my Data Analysis Portfolio!
+# Welcome to my Freelance Portfolio!
 
 This repository showcases my expertise in data analysis and visualization using Python (Seaborn, pandas, matplotlib, and Plotly). I have gained this experience through my pursuit in Chemical Engineering as an undergraduate. Here, you'll find a collection of projects demonstrating my ability to:
 
